@@ -1,0 +1,1 @@
+Predicting area of crime occurence. I used unsupervised k means, and supervised models such as logistic regression, naïve bayes, and random forests to solve the question of the occurrence of crimes in NYC. Dataset is entirely NYC related.
